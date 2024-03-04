@@ -4,7 +4,7 @@ This is a work related porfolio for Fullstack Solutions.
 It is a simple website with a little insight into who I am.
 
 # Contents
--3 HTML pages edited with CSS
+-5 HTML pages edited with CSS
 
 ## Installation
 
@@ -23,4 +23,4 @@ Please make sure to update tests as appropriate.
 
 ## Note
 
-The webpages are still a work in progress (incomplete) so please excuse the wonky formating.
+The webpages are still a work in progress (on-going project).
